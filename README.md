@@ -5,7 +5,7 @@ the code in it is dangerous, it is highly recommended that you try it first in a
 
 run as administrator recommended, because i use bug command "wininit" and work at Windows 10 2H22 and below, Windows 11 2H23 and below
 
-before this, first install python to the pc or check the release for simple, and running as administrator
+before this, first install python and ffplay with ffmpeg to the pc or check the release for simple, and running as administrator
 
 ```cmd
 python main.py
