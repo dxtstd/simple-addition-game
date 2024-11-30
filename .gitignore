@@ -1,0 +1,5 @@
+dist
+build
+main.spec
+simplegame.o
+assets/ffplay.exe
